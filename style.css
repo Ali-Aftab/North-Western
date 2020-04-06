@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+header {
+    background-image: url("./media/img_hero.jpg");
+    height: 500px;
+    line-height: 500px;
+    /* padding: 10 0 10 0; */
+}
+h1 {
+    /* font-size: 100px; */
+    color: #4F4D53;
+    font-family: Roboto Black;
+    font-weight: 900;
+    font-size: 100px;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 0;
+    /* text-align: center; */
+}
+h2 {
+    color: #E8BE02;
+    font-family: Roboto Black;
+    font-weight: 900;
+    font-size: 64px;
+}
+h3 {
+    color: #E8BE02;
+    font-family: Roboto Black;
+    font-weight: 900;
+    font-size: 20px;
+}
+h4 {
+    color: #ffffff;
+    font-family: Roboto Regular;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0.5px;
+}
+p {
+    color: #4F4D53;
+    font-family: Roboto Regular;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer-divider {
+    height: 12px;
+    background-color: #E8BE02;
+    margin-bottom: 0;
+    border: transparent;
+}
+navbar {
+    font-size: 48px;
+    background-color: #4F4D53;
+    padding-left: 25%;
+    padding-right: 25%;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+article {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+footer {
+    padding-top: 10px;
+    height:  320px;
+    background-color: #4F4D53;
+    padding-left: 25%;
+    padding-right: 25%;
+    display: flex;
+}
+.footer-list {
+    width: 33%;
+}
